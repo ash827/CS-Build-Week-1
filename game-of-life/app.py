@@ -10,5 +10,5 @@ from cell import Cell
 
 app = Flask(__name__)
 
-@app.route('/gameoflife', method='GET', 'POST')
-def gameoflife():
+#@app.route('/gameoflife', method='GET', 'POST')
+#def gameoflife():
